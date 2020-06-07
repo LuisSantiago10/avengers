@@ -1,6 +1,7 @@
 # Miembros
 
-*Capitan America
+* Capitan America
+* Nel se
 * Black panther
 * Black Widow
 * Capitán Marvel
